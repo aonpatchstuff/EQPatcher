@@ -1,1 +1,5 @@
 testfile.txt
+bazaar.eqg
+bazaar_chr.txt
+bazaar_EnvironmentEmitters.txt
+bazaar_assets.txt
