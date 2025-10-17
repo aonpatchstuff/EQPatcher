@@ -52,4 +52,4 @@ files:
 - tox_obj.s3d
 - tox_sndbnk.eff
 - tox_sounds.eff
-- Map/bazaar.txt
+- maps/bazaar.txt
