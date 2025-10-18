@@ -4,3 +4,7 @@ bazaar_chr.txt
 bazaar_EnvironmentEmitters.txt
 bazaar_assets.txt
 nektulos.eqg
+spells_us.txt
+SkillCaps.txt
+BaseData.txt
+dbstr_us.txt
