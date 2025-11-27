@@ -54,3 +54,15 @@ files:
 - tox_sounds.eff
 - maps/bazaar.txt
 - maps/nektulos.txt
+- lavastorm.emt
+- lavastorm.eqg
+- lavastorm.mp3
+- lavastorm.xmi
+- lavastorm_chr.s3d
+- lavastorm_chr.txt
+- lavastorm_EnvironmentEmitters.txt
+- lavastorm_obj.s3d
+- lavastorm_sndbnk.eff
+- lavastorm_sounds.eff
+- maps/lavastorm.txt
+- maps/nektulos.txt
